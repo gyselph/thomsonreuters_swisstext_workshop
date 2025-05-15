@@ -44,3 +44,7 @@ time to complete both, so choose which one you want to start with:
 Along the way, you leverage different RAG techniques, including semantic search and TF-IDF, which you implement from scratch.
 - Part 2 -`part2_quiz_generation/quiz_generation.ipynb`: Here you implement a quiz generator for news articles.
 This exercise focuses on prompt engineering. Along the way, you'll learn about a library called [LangGraph](https://www.langchain.com/langgraph).
+
+## Solutions
+
+You can find the full solutions to both hands-on exercises in the `solutions` folder.
